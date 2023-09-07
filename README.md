@@ -9,8 +9,7 @@ The `image_smoothing.m` is a simple matlab code to smoothen an image </br>
 ![smoothen images](Results/smooth.jpg)
 The `light_enhancement.m` is a simple matlab code to enhance the lighting of an image </br>
 
-![enhance](Results/enhanced.jpg)
-
+![enhanced](Results/enhanced.jpg)
 
 The `remove_ripples.m` is a simple matlab code to remove ripples from an image.
 
