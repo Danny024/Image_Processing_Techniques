@@ -14,3 +14,8 @@ The `light_enhancement.m` is a simple matlab code to enhance the lighting of an 
 The `remove_ripples.m` is a simple matlab code to remove ripples from an image.
 
 
+![enhanced](Results/rip_1.jpg)
+
+![enhanced](Results/rip_2.jpg)
+
+![enhanced](Results/rip_3.jpg)
