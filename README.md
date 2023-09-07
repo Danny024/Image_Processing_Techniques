@@ -7,4 +7,4 @@ This project makes use of the following image processing techniques such image s
 # Guide
 The `image_smoothing.m` is a simple matlab code to smoothen an image
 
-![image_smothening](Results/smooth_1.jpg)
+![Proposed Hardware Architecture](Results/smooth_1.jpg)
