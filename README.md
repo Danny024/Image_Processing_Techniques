@@ -5,9 +5,9 @@ This project makes use of the following image processing techniques such image s
 `Matlab 2022 or above `
 
 # Guide
-The `image_smoothing.m` is a simple matlab code to smoothen an image </br>
+The `image_smoothing.m` is a simple matlab code to smoothen an image 
 ![smoothen images](Results/smooth.jpg)
-The `light_enhancement.m` is a simple matlab code to enhance the lighting of an image </br>
+The `light_enhancement.m` is a simple matlab code to enhance the lighting of an image 
 
 ![enhanced](Results/enhanced.jpg)
 
