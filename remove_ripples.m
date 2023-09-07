@@ -1,6 +1,5 @@
 % Code Written by Daniel Anietie Eneh
-% Student ID : H00421147
-% B31SE-Image Processing Assignment 1
+
 
 clear; close all; clc;
 
