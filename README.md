@@ -5,8 +5,8 @@ This project makes use of the following image processing techniques such image s
 `Matlab 2022 or above `
 
 # Guide
-The `image_smoothing.m` is a simple matlab code to smoothen an image
-The `light_enhancement.m` is a simple matlab code to enhance the lighting of an image
+The `image_smoothing.m` is a simple matlab code to smoothen an image </br>
+The `light_enhancement.m` is a simple matlab code to enhance the lighting of an image </br>
 The `remove_ripples.m` is a simple matlab code to remove ripples from an image.
 
 
